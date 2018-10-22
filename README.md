@@ -6,26 +6,26 @@ Beide Projekte mit git versionieren: initialisieren und auf git pushen.
 
 Für jedes Projekt 10 Änderungen machen, wobei jede Änderung commitet und gepusht wird. 
 Jeweils csharp.cs anlegen.
-a) In name_uebung1/charp.cs folgende kommentare einfuegen
+a) In name_uebung1/csharp.cs folgende kommentare einfuegen
 
 Kommentare
 
-Declare a Variable
-Assign a Value to a Varialbe
-Refer to Other Code
-If-Statement
-Evaluate Condition
-Conditional Operators
-Loops
-Data Types
-Keywords
-Data structures
++ Declare a Variable
++ Assign a Value to a Varialbe
++ Refer to Other Code
++ If-Statement
++ Evaluate Condition
++ Conditional Operators
++ Loops
++ Data Types
++ Keywords
++ Data structures
 
 b) In name_uebung2/csharp.cs folgende Kommentare einfuegen
 
 Kommentare
 
-Best Practice
++ Best Practice
 
 
 fork dieses repository:
